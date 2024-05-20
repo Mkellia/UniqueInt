@@ -21,8 +21,8 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Mkellia/UniqueIntProcessor.git
-cd UniqueIntProcessor
+git clone https://github.com/Mkellia/UniqueInt.git
+cd UniqueInt
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ cd UniqueIntProcessor
 2. Run the script:
 
 ```bash
-python3 unique_int_processor.py
+python3 processor.py
 ```
 
 The script will read each `.txt` file in the `inputs` directory, process the integers, and save the results in the `results` directory with `_results.txt` appended to the original filename.
